@@ -23,19 +23,11 @@
   "devDependencies": {
     "@types/cors": "^2.8.13",
     "@types/express": "^4.17.17",
-<<<<<<< HEAD
     "@types/node": "^20.19.33",
     "@types/supertest": "^6.0.3",
     "supertest": "^7.2.2",
     "tsx": "^4.7.0",
     "typescript": "^5.9.3",
-=======
-    "@types/node": "^20.10.0",
-    "@types/supertest": "^7.2.0",
-    "supertest": "^7.2.2",
-    "tsx": "^4.7.0",
-    "typescript": "^5.3.3",
->>>>>>> 259641b (Fix route tests to mock controller instead of service)
     "vitest": "^4.0.18"
   }
 }
